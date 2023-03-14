@@ -1,0 +1,7 @@
+C:\Users\naima\source\repos\exam\exam\bin\Debug\exam.exe.config
+C:\Users\naima\source\repos\exam\exam\bin\Debug\exam.exe
+C:\Users\naima\source\repos\exam\exam\bin\Debug\exam.pdb
+C:\Users\naima\source\repos\exam\exam\obj\Debug\exam.csproj.AssemblyReference.cache
+C:\Users\naima\source\repos\exam\exam\obj\Debug\exam.csproj.CoreCompileInputs.cache
+C:\Users\naima\source\repos\exam\exam\obj\Debug\exam.exe
+C:\Users\naima\source\repos\exam\exam\obj\Debug\exam.pdb
